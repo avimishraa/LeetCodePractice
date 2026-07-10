@@ -4,16 +4,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/avimishraa/LeetCodePractice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avimishraa/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/avimishraa/LeetCodePractice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/avimishraa/LeetCodePractice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avimishraa/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/avimishraa/LeetCodePractice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/avimishraa/LeetCodePractice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avimishraa/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/avimishraa/LeetCodePractice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Sorting
@@ -23,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/avimishraa/LeetCodePractice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avimishraa/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/avimishraa/LeetCodePractice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Hash Table
@@ -36,5 +40,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/avimishraa/LeetCodePractice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avimishraa/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
