@@ -91,9 +91,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/avimishraa/LeetCodePractice/tree/master/0049-group-anagrams) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/avimishraa/LeetCodePractice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/avimishraa/LeetCodePractice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/avimishraa/LeetCodePractice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/avimishraa/LeetCodePractice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
