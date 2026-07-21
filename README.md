@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/avimishraa/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/avimishraa/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avimishraa/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1331-rank-transform-of-an-array](https://github.com/avimishraa/LeetCodePractice/tree/master/1331-rank-transform-of-an-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/avimishraa/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/avimishraa/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/avimishraa/LeetCodePractice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/avimishraa/LeetCodePractice/tree/master/1260-shift-2d-grid) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/avimishraa/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
