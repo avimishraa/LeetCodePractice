@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/avimishraa/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/avimishraa/LeetCodePractice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/avimishraa/LeetCodePractice/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/avimishraa/LeetCodePractice/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avimishraa/LeetCodePractice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Tree
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/avimishraa/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avimishraa/LeetCodePractice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/avimishraa/LeetCodePractice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/avimishraa/LeetCodePractice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avimishraa/LeetCodePractice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
