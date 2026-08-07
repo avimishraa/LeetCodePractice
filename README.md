@@ -189,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/avimishraa/LeetCodePractice/tree/master/0206-reverse-linked-list) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/avimishraa/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
