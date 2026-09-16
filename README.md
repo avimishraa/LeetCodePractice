@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/avimishraa/LeetCodePractice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avimishraa/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1331-rank-transform-of-an-array](https://github.com/avimishraa/LeetCodePractice/tree/master/1331-rank-transform-of-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/avimishraa/LeetCodePractice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/avimishraa/LeetCodePractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/avimishraa/LeetCodePractice/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/avimishraa/LeetCodePractice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/avimishraa/LeetCodePractice/tree/master/1768-merge-strings-alternately) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/avimishraa/LeetCodePractice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/avimishraa/LeetCodePractice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 | Problem Name | Difficulty |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/avimishraa/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/avimishraa/LeetCodePractice/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/avimishraa/LeetCodePractice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
