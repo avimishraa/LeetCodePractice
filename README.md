@@ -226,4 +226,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1148-article-views-i](https://github.com/avimishraa/LeetCodePractice/tree/main/1148-article-views-i/) | Easy |
+| [1683-invalid-tweets](https://github.com/avimishraa/LeetCodePractice/tree/main/1683-invalid-tweets/) | Easy |
 <!---LeetCode Topics End-->
