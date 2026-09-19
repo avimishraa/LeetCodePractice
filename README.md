@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1068-product-sales-analysis-i](https://github.com/avimishraa/LeetCodePractice/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/avimishraa/LeetCodePractice/tree/main/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/avimishraa/LeetCodePractice/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/avimishraa/LeetCodePractice/tree/main/1683-invalid-tweets/) | Easy |
