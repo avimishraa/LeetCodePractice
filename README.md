@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/avimishraa/LeetCodePractice/tree/master/1260-shift-2d-grid) |
 | [2169-count-operations-to-obtain-zero](https://github.com/avimishraa/LeetCodePractice/tree/master/2169-count-operations-to-obtain-zero) |
+| [3498-reverse-degree-of-a-string](https://github.com/avimishraa/LeetCodePractice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avimishraa/LeetCodePractice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 | Problem Name | Difficulty |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/avimishraa/LeetCodePractice/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/avimishraa/LeetCodePractice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/avimishraa/LeetCodePractice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/avimishraa/LeetCodePractice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/avimishraa/LeetCodePractice/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
