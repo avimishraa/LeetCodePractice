@@ -10,7 +10,7 @@ public:
 
         int maxLen = -1, currentSum = 0, left = 0;
 
-        for (int right = 0; right < nums.size(); ++right) {
+        for (int right = 0; right < nums.size(); right++) {
             currentSum += nums[right];
 
             while (left <= right && currentSum > target) {
