@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/avimishraa/LeetCodePractice/tree/master/0049-group-anagrams) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/avimishraa/LeetCodePractice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/avimishraa/LeetCodePractice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/avimishraa/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/avimishraa/LeetCodePractice/tree/master/0881-boats-to-save-people) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/avimishraa/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/avimishraa/LeetCodePractice/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/avimishraa/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/avimishraa/LeetCodePractice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/avimishraa/LeetCodePractice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avimishraa/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/avimishraa/LeetCodePractice/tree/main/0771-jewels-and-stones/) | Easy |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avimishraa/LeetCodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/avimishraa/LeetCodePractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/avimishraa/LeetCodePractice/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/avimishraa/LeetCodePractice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/avimishraa/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/avimishraa/LeetCodePractice/tree/main/0733-flood-fill/) | Easy |
 | [0881-boats-to-save-people](https://github.com/avimishraa/LeetCodePractice/tree/master/0881-boats-to-save-people) |
