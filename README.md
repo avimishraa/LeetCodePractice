@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/avimishraa/LeetCodePractice/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/avimishraa/LeetCodePractice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/avimishraa/LeetCodePractice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/avimishraa/LeetCodePractice/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/avimishraa/LeetCodePractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/avimishraa/LeetCodePractice/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/avimishraa/LeetCodePractice/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avimishraa/LeetCodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/avimishraa/LeetCodePractice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/avimishraa/LeetCodePractice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/avimishraa/LeetCodePractice/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avimishraa/LeetCodePractice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/avimishraa/LeetCodePractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/avimishraa/LeetCodePractice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/avimishraa/LeetCodePractice/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/avimishraa/LeetCodePractice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/avimishraa/LeetCodePractice/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/avimishraa/LeetCodePractice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/avimishraa/LeetCodePractice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/avimishraa/LeetCodePractice/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
