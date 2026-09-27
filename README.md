@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/avimishraa/LeetCodePractice/tree/main/0771-jewels-and-stones/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avimishraa/LeetCodePractice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/avimishraa/LeetCodePractice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/avimishraa/LeetCodePractice/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/avimishraa/LeetCodePractice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avimishraa/LeetCodePractice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/avimishraa/LeetCodePractice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avimishraa/LeetCodePractice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
