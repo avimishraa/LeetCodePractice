@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/avimishraa/LeetCodePractice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/avimishraa/LeetCodePractice/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/avimishraa/LeetCodePractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3527-find-the-most-common-response](https://github.com/avimishraa/LeetCodePractice/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3731-find-missing-elements](https://github.com/avimishraa/LeetCodePractice/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/avimishraa/LeetCodePractice/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Two Pointers
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/avimishraa/LeetCodePractice/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avimishraa/LeetCodePractice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/avimishraa/LeetCodePractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3527-find-the-most-common-response](https://github.com/avimishraa/LeetCodePractice/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/avimishraa/LeetCodePractice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3731-find-missing-elements](https://github.com/avimishraa/LeetCodePractice/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avimishraa/LeetCodePractice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/avimishraa/LeetCodePractice/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/avimishraa/LeetCodePractice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/avimishraa/LeetCodePractice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3527-find-the-most-common-response](https://github.com/avimishraa/LeetCodePractice/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/avimishraa/LeetCodePractice/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/avimishraa/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/avimishraa/LeetCodePractice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/avimishraa/LeetCodePractice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [3527-find-the-most-common-response](https://github.com/avimishraa/LeetCodePractice/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
