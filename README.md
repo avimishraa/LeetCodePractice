@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/main/0022-generate-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avimishraa/LeetCodePractice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
