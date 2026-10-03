@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/avimishraa/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avimishraa/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 | Problem Name | Difficulty |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/avimishraa/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/avimishraa/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/avimishraa/LeetCodePractice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/avimishraa/LeetCodePractice/tree/main/0290-word-pattern/) | Easy |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avimishraa/LeetCodePractice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/avimishraa/LeetCodePractice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avimishraa/LeetCodePractice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
