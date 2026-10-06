@@ -1,22 +1,19 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        int n=s.size();
+        int temp=0;
         int ans=0;
-        stack<char> st;
-        for(int i=0;i<n;i++){
-            if(s[i]=='('){
-                st.push(s[i]);
-            }
-            else if(s[i]==')'&&!st.empty()){
-                st.pop();
-            }
+        for(char ch:s){
+            if(ch=='(')
+            temp++;
             else{
+            temp--;
+            if(temp<0){
                 ans++;
+                temp=0;
+            }
             }
         }
-
-        return ans+st.size();
-
+        return temp+ans;
     }
 };
