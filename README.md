@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/avimishraa/LeetCodePractice/tree/master/0101-symmetric-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0463-island-perimeter](https://github.com/avimishraa/LeetCodePractice/tree/main/0463-island-perimeter/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avimishraa/LeetCodePractice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avimishraa/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/avimishraa/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/avimishraa/LeetCodePractice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/avimishraa/LeetCodePractice/tree/main/0290-word-pattern/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/avimishraa/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/avimishraa/LeetCodePractice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0521-longest-uncommon-subsequence-i](https://github.com/avimishraa/LeetCodePractice/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
