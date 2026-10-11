@@ -1,0 +1,14 @@
+class Solution {
+public:
+    int sumOfSquares(vector<int>& nums) {
+        int ans=0;
+        int n=nums.size();
+        for(int i=1;i<=n;i++){
+            if(n%i==0){
+            int temp=nums[i-1];
+            ans+=temp*temp;
+            }
+        }
+        return ans;
+    }
+};
