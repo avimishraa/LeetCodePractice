@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/avimishraa/LeetCodePractice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/avimishraa/LeetCodePractice/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avimishraa/LeetCodePractice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/avimishraa/LeetCodePractice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/avimishraa/LeetCodePractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3527-find-the-most-common-response](https://github.com/avimishraa/LeetCodePractice/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/avimishraa/LeetCodePractice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/avimishraa/LeetCodePractice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/avimishraa/LeetCodePractice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Linked List
 | Problem Name | Difficulty |
