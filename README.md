@@ -159,11 +159,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/avimishraa/LeetCodePractice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avimishraa/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/avimishraa/LeetCodePractice/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/avimishraa/LeetCodePractice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avimishraa/LeetCodePractice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/avimishraa/LeetCodePractice/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/avimishraa/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/avimishraa/LeetCodePractice/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avimishraa/LeetCodePractice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/avimishraa/LeetCodePractice/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/avimishraa/LeetCodePractice/tree/main/0509-fibonacci-number/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/avimishraa/LeetCodePractice/tree/main/0509-fibonacci-number/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avimishraa/LeetCodePractice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
