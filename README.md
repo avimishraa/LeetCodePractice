@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/avimishraa/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avimishraa/LeetCodePractice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/avimishraa/LeetCodePractice/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/avimishraa/LeetCodePractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avimishraa/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/avimishraa/LeetCodePractice/tree/master/0881-boats-to-save-people) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/avimishraa/LeetCodePractice/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/avimishraa/LeetCodePractice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avimishraa/LeetCodePractice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/avimishraa/LeetCodePractice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/avimishraa/LeetCodePractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/avimishraa/LeetCodePractice/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/avimishraa/LeetCodePractice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0575-distribute-candies](https://github.com/avimishraa/LeetCodePractice/tree/main/0575-distribute-candies/) | Easy |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/avimishraa/LeetCodePractice/tree/main/0070-climbing-stairs/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/avimishraa/LeetCodePractice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/avimishraa/LeetCodePractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/avimishraa/LeetCodePractice/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/avimishraa/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/avimishraa/LeetCodePractice/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
