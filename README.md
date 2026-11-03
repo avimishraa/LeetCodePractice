@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/avimishraa/LeetCodePractice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/avimishraa/LeetCodePractice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/avimishraa/LeetCodePractice/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/avimishraa/LeetCodePractice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avimishraa/LeetCodePractice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/avimishraa/LeetCodePractice/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/avimishraa/LeetCodePractice/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/avimishraa/LeetCodePractice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/avimishraa/LeetCodePractice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/avimishraa/LeetCodePractice/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/avimishraa/LeetCodePractice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avimishraa/LeetCodePractice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/avimishraa/LeetCodePractice/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Number Theory
