@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/avimishraa/LeetCodePractice/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/avimishraa/LeetCodePractice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/avimishraa/LeetCodePractice/tree/master/1768-merge-strings-alternately) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/avimishraa/LeetCodePractice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avimishraa/LeetCodePractice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/avimishraa/LeetCodePractice/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/avimishraa/LeetCodePractice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avimishraa/LeetCodePractice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/avimishraa/LeetCodePractice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Math
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/avimishraa/LeetCodePractice/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/avimishraa/LeetCodePractice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/avimishraa/LeetCodePractice/tree/main/2409-count-days-spent-together/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/avimishraa/LeetCodePractice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/avimishraa/LeetCodePractice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/avimishraa/LeetCodePractice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/avimishraa/LeetCodePractice/tree/main/3527-find-the-most-common-response/) | Medium |
